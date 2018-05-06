@@ -1,4 +1,4 @@
-#include"COMPLEX.cpp"
+#include"Complex.cpp"
 int main() {
 	vortex z1, z2, z3;
 	double z;
