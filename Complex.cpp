@@ -1,4 +1,4 @@
-#include"COMPLEX.h"
+#include"Complex.h"
 void print_interface(char operation) {
 	cout << "operation-comlex number" << endl;
 	cout << "+.summ" << endl;
